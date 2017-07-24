@@ -68,4 +68,4 @@ The `lang` property of the options object passed to `Tesseract.recognize` can ha
 | 'tha'     | Thai                  | 
 | 'tur'     | Turkish               | 
 | 'ukr'     | Ukrainian             | 
-| 'vie'     | Vietnamese            | 
+| 'vie'     | Vietnamese            |
